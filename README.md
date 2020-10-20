@@ -1,9 +1,3 @@
 # backendfrontend
 
-## node-modules mangler!
-
-### du skal altså køre kommandoerne: 
-
-npm i express
-
-npm i body-parser
+Kør kommandoen "docker-compose up" i visual studio code når du har klonet mit repo og åbnet det
